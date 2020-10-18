@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614572024131",
+    "firebase_url": "https://healthcard-5bc9e.firebaseio.com",
+    "project_id": "healthcard-5bc9e",
+    "storage_bucket": "healthcard-5bc9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614572024131:android:f6f65756e92c7d9409cff6",
+        "android_client_info": {
+          "package_name": "com.design.healthcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614572024131-2sd69klageualod0updkf0lcvikdtegn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCrx6H26rZTsgN0OrL4yt1w9NDpw0y60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614572024131-2sd69klageualod0updkf0lcvikdtegn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
